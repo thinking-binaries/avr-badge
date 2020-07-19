@@ -1,2 +1,2 @@
 # avr-badge
-AVR Badge
+AVR Badge - placeholder project, ready to publish something soon
